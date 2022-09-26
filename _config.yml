@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Ben Frearson
+email: benfrearson@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+github_username: bfrearson
 minimal_mistakes_skin: default
-search: true
+search: false
+
 
 # Build settings
 markdown: kramdown
@@ -30,8 +30,9 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: blog/page:num/
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+locale: en-GB
 
 include:
   - _pages
@@ -58,9 +59,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ben Frearson"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "Birmingham, UK"
+  
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -95,10 +98,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
   # _pages
   - scope:
       path: "_pages"
@@ -106,6 +110,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "apps"
+
 
 category_archive:
   type: liquid
@@ -113,3 +120,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+github: [metadata]
+repository: "bfrearson/bfrearson.github.io"
+
+atom_feed:
+  hide: true
+
+  social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://bfrearson.github.io"
+    - "https://github.com/bfrearson"
