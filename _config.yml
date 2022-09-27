@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 15 # amount of posts to show
 paginate_path: blog/page:num/
 timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: en-GB
@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Ben Frearson"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio1square.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   location: "Birmingham, UK"
   
@@ -113,6 +113,16 @@ defaults:
       sidebar:
         nav: "apps"
 
+   # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "apps"       
+
 
 category_archive:
   type: liquid
@@ -133,3 +143,8 @@ atom_feed:
   links:
     - "https://bfrearson.github.io"
     - "https://github.com/bfrearson"
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection:/path
