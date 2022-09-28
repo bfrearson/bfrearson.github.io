@@ -8,4 +8,4 @@ show_excerpts: true
 classes: wide
 ---
 
-blah blah projects blah
+Below you'll find a summary of my biggest projects. Check out the readme pages in my public [github](https://github.com/bfrearson) repos for other smaller projects.
