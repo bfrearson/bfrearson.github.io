@@ -1,15 +1,16 @@
 ---
 permalink: /
+title: ""
 ---
-Hi, I'm Ben, and I like to solve problems. 
 
-I've previously worked as an [electronics engineer](https://laney.co.uk), teacher, [examiner](https://www.cambridgeinternational.org), [pastor](https://thebcec.org.uk), and freelance [software developer](/projects/). At the heart of each of these roles was my goal to fix things[^1].
+<h1> Hi I'm Ben.<br>
+I like to solve problems.</h1>
+
+I've worked as an [electronics engineer](https://laney.co.uk), teacher, [examiner](https://www.cambridgeinternational.org), [pastor](https://thebcec.org.uk), and independant [software developer](/projects/). At the heart of each of these roles was my goal to fix things[^1].
 
 Most recently I've been working on [Loopify](/projects/loopify/): a song looper that uses Spotify's [Web API](https://developer.spotify.com/documentation/web-api/). Born from my frustration with skipping back and forth trying to [learn new songs](https://www.instagram.com/ben.frearson/), Loopify was created as a SwiftUI app that aims to make it easy to identify sections and bars of a song playing on any Spotify Connect device. You can find out more on the [projects](/projects/) page.
 
-Outside of work, I love playing [music](https://www.instagram.com/ben.frearson/), playing with my two kids, or playing [retro video games](https://returntomonkeyisland.com)[^2].
-
-## Some things I think I'm good at
+## Skills
 - Swift, [UIKit](/_projects/StreamCam/) and [SwiftUI](/projects/loopify/)
 - Basic knowledge of javascript
 - Strong problem solving skills; details-oriented mindset
@@ -53,6 +54,8 @@ Outside of work, I love playing [music](https://www.instagram.com/ben.frearson/)
 - Produced PCB designs in Altium Designer
 - Produced technical drawings and 3D models in Solidworks
 - Wrote technical documentation for product testing
+
+---
 
 [^1]:Specifically PCBs, Physics problems, Souls, and UI issues.
 [^2]:Not necessarily in that order.
