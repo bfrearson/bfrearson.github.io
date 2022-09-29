@@ -16,9 +16,7 @@
 title: Ben Frearson
 email: benfrearson@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ben Frearson is an independent iOS developer who has previously worked in education and product design. He lives in Birmingham, UK with his wife and two children.
 github_username: bfrearson
 minimal_mistakes_skin: default
 search: false
@@ -59,38 +57,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ben Frearson"
   avatar : "/assets/images/bio1square.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Indie software developer, educator, questioner."
   location: "Birmingham, UK"
   
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/bfrearson"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/bfrearson"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/ben.frearson/"
+
+
 
 defaults:
+
   # _posts
   - scope:
       path: ""
@@ -110,8 +99,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "apps"
 
    # _projects
   - scope:
@@ -120,8 +107,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "apps"       
 
 
 category_archive:
@@ -142,7 +127,7 @@ atom_feed:
   name:  # If the user or organization name differs from the site's name
   links:
     - "https://bfrearson.github.io"
-    - "https://github.com/bfrearson"
+    - "https://github.com/bfrearsonbfrearson"
 
 collections:
   projects:
