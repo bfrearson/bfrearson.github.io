@@ -4,8 +4,6 @@ permalink: /projects/progress/
 header:
     teaser: assets/images/progress2.png
 
-excerpt: "tell me about ~~loom~~ progress"
+excerpt: "ask me about ~~loom~~ progress"
 ---
-
-
-asdfds
+Coming soon

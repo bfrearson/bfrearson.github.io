@@ -4,8 +4,7 @@ permalink: /projects/loopify/
 header:
     teaser: assets/images/loopify_rounded.png
 
-excerpt: "tell me about loopify"
+excerpt: "ask me about loopify"
 ---
 
-
-asdfds
+Coming soon

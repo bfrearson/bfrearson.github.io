@@ -4,8 +4,6 @@ permalink: /projects/streamcam/
 header:
     teaser: assets/images/streamcam_rounded.png
 
-excerpt: "tell me about streamcam"
+excerpt: "ask me about streamcam"
 ---
-
-
-asdfds
+Coming soon
