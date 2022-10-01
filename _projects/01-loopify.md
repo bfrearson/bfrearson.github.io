@@ -66,7 +66,7 @@ My design for the app features a minimap view on the left, displaying the entire
 ## Behind the scenes
 
 ### Interface
-The Loopify UI is [very-nearly]({% post_url 2022-09-28-loopify-day54 %}) entirely written in SwiftUI. This is my [second project](/projects/progress), but the first that I've seen through to completion. Declarative programming has been a challenge, but I've enjoyed it. Building the UI took a significant amount of time in the project, and I scrapped my [initial idea] ({% post_url 2022-08-22-loopify-day39%}) in favour of something that I think is more refined.
+The Loopify UI is [very-nearly]({% post_url 2022-09-28-loopify-day54 %}) entirely written in SwiftUI. This is my [second project](/projects/progress), but the first that I've seen through to completion. Declarative programming has been a challenge, but I've enjoyed it. Building the UI took a significant amount of time in the project, and I scrapped my [initial idea]({% post_url 2022-08-22-loopify-day39%}) in favour of something that I think is more refined.
 
 {% include gallery id = "gallery_design" caption="Old vs new UI" %}
 
