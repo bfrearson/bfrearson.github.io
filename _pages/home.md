@@ -29,7 +29,7 @@ Most recently I've been working on [Loopify](/projects/loopify/): a song looper 
 - Regularly delivered teaching sermons to a congregation of 150+ members
 - Hosted, produced, edited and published a [weekly podcast](https://thebcec.org.uk/series/a-b-side-podcast/)
 - Recorded and edited a weekly [YouTube channel](https://www.youtube.com/c/TheBCEC)
-- Implemented and maintained a weekly livestream including a live band
+- Implemented and maintained a weekly livestream including music
 - Managed several teams of volunteer leaders
 
 #### Examiner, Cambridge International and OCR
