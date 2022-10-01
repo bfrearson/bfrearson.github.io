@@ -24,9 +24,17 @@ h5{
     margin-bottom: 0;
 }
 
+img[alt="image-left"]{
+    width: 250px;
+}
+
 .sidebar__apps{
     padding-inline-start:0;
     margin: 0;
+}
+
+ul .sidebar__apps{
+padding: 0px;
 }
 
 .sidebar__apps a {
@@ -34,6 +42,13 @@ h5{
     padding: 0.25em 0;
     text-decoration: none;
     color: inherit;
+}
+
+.sidebar__apps img{
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+    margin: 4px 5px 4px 0px;
 }
 
 .sidebar__apps__sub-title{
