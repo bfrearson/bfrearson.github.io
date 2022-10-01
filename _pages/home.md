@@ -12,9 +12,8 @@ Most recently I've been working on [Loopify](/projects/loopify/): a song looper 
 
 ## Skills
 - Swift, [UIKit](/_projects/StreamCam/) and [SwiftUI](/projects/loopify/)
-- Basic knowledge of javascript
 - Strong problem solving skills; details-oriented mindset
-- Good public communicator
+- Excellent public communicator
 - Audio and video editing
 
 ## Experience
@@ -57,7 +56,7 @@ Most recently I've been working on [Loopify](/projects/loopify/): a song looper 
 
 ---
 
-[^1]:Specifically PCBs, Physics problems, Souls, and UI issues.
+[^1]:Specifically PCBs, physics problems, souls, and UI issues.
 [^2]:Not necessarily in that order.
 [^3]:Loopify is currently in beta, awaiting approval from Spotify for general release.
 
