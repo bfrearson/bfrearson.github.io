@@ -11,7 +11,7 @@ I've worked as an [electronics engineer](https://laney.co.uk), teacher, [examine
 Most recently I've been working on [Loopify](/projects/loopify/): a song looper that uses Spotify's [Web API](https://developer.spotify.com/documentation/web-api/). Born from my frustration with skipping back and forth trying to [learn new songs](https://www.instagram.com/ben.frearson/), Loopify was created as a SwiftUI app that aims to make it easy to identify sections and bars of a song playing on any Spotify Connect device. You can find out more on the [projects](/projects/) page.
 
 ## Skills
-- Swift, [UIKit](/_projects/StreamCam/) and [SwiftUI](/projects/loopify/)
+- Swift, [UIKit](/projects/streamcam/) and [SwiftUI](/projects/loopify/)
 - Strong problem solving skills; details-oriented mindset
 - Excellent public communicator
 - Audio and video editing
