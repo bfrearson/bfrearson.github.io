@@ -36,7 +36,7 @@ gallery_features:
 
 ---
 
-<a href="https://bfrearson.github.io/loopifyhelp/" class="btn btn--primary">Loopify User Page</a>
+<a href="https://bfrearson.github.io/loopifyapp/" class="btn btn--primary">Loopify User Page</a>
 
 ---
 
