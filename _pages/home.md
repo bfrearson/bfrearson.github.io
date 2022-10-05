@@ -18,13 +18,13 @@ Most recently I've been working on [Loopify](/projects/loopify/): a song looper 
 
 ## Experience
 #### Freelance Software Developer
-##### 2021–2022
+##### 2021–Present
 - Independently developed and released [two iOS apps](/projects/)[^3] which:
     - Feature unique, responsive interfaces using [SwiftUI](/projects/loopify/) and [UIKit](/projects/streamcam)
     - Fit a gap in the market and solve real world problems
 
 #### Pastor, Birmingham Chinese Evangelical Church
-##### 2019–2022
+##### 2019–Present
 
 - Regularly delivered teaching sermons to a congregation of 150+ members
 - Hosted, produced, edited and published a [weekly podcast](https://thebcec.org.uk/series/a-b-side-podcast/)
@@ -33,7 +33,7 @@ Most recently I've been working on [Loopify](/projects/loopify/): a song looper 
 - Managed several teams of volunteer leaders
 
 #### Examiner, Cambridge International and OCR
-##### 2017–2022
+##### 2017–Present
 
 - Marked thousands of GCSE and A Level Physics papers to a consistently high precision
 - Authored GCSE-level papers to be delivered at an international level
