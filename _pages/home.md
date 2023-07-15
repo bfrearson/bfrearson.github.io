@@ -6,9 +6,9 @@ title: ""
 <h1> Hi I'm Ben.<br>
 I like to solve problems.</h1>
 
-I've worked as an [electronics engineer](https://laney.co.uk), teacher, [examiner](https://www.cambridgeinternational.org), [pastor](https://thebcec.org.uk), and independant [software developer](/projects/). At the heart of each of these roles was my goal to fix things[^1].
+I've worked as an [electronics engineer](https://laney.co.uk), teacher, [examiner](https://www.cambridgeinternational.org), [pastor](https://thebcec.org.uk), and [software developer](/projects/). At the heart of each of these roles was my goal to fix things[^1].
 
-Most recently I've been working on [Loopify](/projects/loopify/): a song looper that uses Spotify's [Web API](https://developer.spotify.com/documentation/web-api/). Born from my frustration with skipping back and forth trying to [learn new songs](https://www.instagram.com/ben.frearson/), Loopify was created as a SwiftUI app that aims to make it easy to identify sections and bars of a song playing on any Spotify Connect device. You can find out more on the [projects](/projects/) page.
+I currently work as an iOS developer at an [app agency](https://sonin.agency/). Outside of that role I've been working on [Plateau](/projects/plateau): a guitar practice app, and [Loopify](/projects/loopify/): a song looper that uses Spotify's [Web API](https://developer.spotify.com/documentation/web-api/). Born from my frustration with skipping back and forth trying to [learn new songs](https://www.instagram.com/ben.frearson/), Loopify was created as a SwiftUI app that aims to make it easy to identify sections and bars of a song playing on any Spotify Connect device. You can find out more on the [projects](/projects/) page.
 
 ## Skills
 - Swift, [UIKit](/projects/streamcam/) and [SwiftUI](/projects/loopify/)
@@ -17,6 +17,12 @@ Most recently I've been working on [Loopify](/projects/loopify/): a song looper 
 - Audio and video editing
 
 ## Experience
+#### iOS Developer, Sonin App Development
+##### 2022–Present
+- Collaborated within a team environment to develop and maintain advanced iOS applications with custom design elements in SwiftUI. I have worked with a wide range of Foundation frameworks.
+- Executed proof-of-concept integrated hardware solutions with Raspberry Pi.
+- Lead migration from Combine to async/await architecture, improving code readability and maintenance.
+
 #### Freelance Software Developer
 ##### 2021–Present
 - Independently developed and released [two iOS apps](/projects/)[^3] which:
@@ -58,6 +64,6 @@ Most recently I've been working on [Loopify](/projects/loopify/): a song looper 
 
 [^1]:Specifically PCBs, physics problems, souls, and UI issues.
 [^2]:Not necessarily in that order.
-[^3]:Loopify is currently in beta, awaiting approval from Spotify for general release.
+[^3]:Due to the latest set of limitations on the Spotify API, it's unlikely that Loopify will be released 😣
 
 [^5]:Being in the classroom, and paperwork, respectively.
