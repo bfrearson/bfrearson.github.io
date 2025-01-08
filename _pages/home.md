@@ -17,7 +17,8 @@ I currently work as a lead iOS developer at an [app agency](https://sonin.agency
 - Team leader
 
 ## Experience
-#### iOS Tech Lead, Sonin App Development — 2023–Present
+#### iOS Tech Lead, Sonin App Development
+##### 2023–Present
 - Implemented team-wide policies and implementation for Test Driven Development and CI/CD deployment for unit tests, QA testing and release.
 - Regularly met with agency clients to discuss technical issues and app architecture.
 - Line-managed team members, collaboratively setting and reviewing objectives to realise business and personal goals.
